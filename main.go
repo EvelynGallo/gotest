@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	variables.RestoVariables()
+	variables.ConviertoaTexto(2588)
 }
